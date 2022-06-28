@@ -4,14 +4,14 @@
 </div>
 
 <div class="jumbotron">
-  <h1 align="center">Kubernetes on Cloud</h1>
-  <p align="center">Masterclass Series on AWS, Azure and GKE</p>
+  <h1 align="right">using Kubernetes</h1>
+  <p align="center">Customer</p>
 </div>
 
 <div class="container">
-  <h2>User Management</h2>
-  <a href="/list-users" class="btn btn-info" role="button">List Users</a>
-  <a href="/add-user" class="btn btn-info" role="button">Create Users</a>
+  <h2>User Controller</h2>
+  <a href="/list-users" class="btn btn-info" role="button">List all users</a>
+  <a href="/add-user" class="btn btn-info" role="button">Create new Users</a>
 </div>
 
 

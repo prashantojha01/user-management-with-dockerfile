@@ -1,7 +1,7 @@
 <%@ include file="common/header.jspf" %>
 <%@ include file="common/navigation.jspf" %>
 <div class="page-header">
-  <h2 class="text-center">Create User</h2>
+  <h2 class="text-center">Create new User</h2>
 </div>
 <div class="container">
 	<form:form method="post" modelAttribute="user">

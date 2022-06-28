@@ -1,6 +1,6 @@
 <%@ include file="common/header.jspf" %>
 <%@ include file="common/navigation.jspf" %>
-	  <h2 class="text-center">List Users</h2>
+	  <h2 class="text-center">List all Users</h2>
  
 	<div class="container">
 		<div>
